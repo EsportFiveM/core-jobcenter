@@ -1,2 +1,2 @@
-# core-jobcenter
-Jobcenter UI and Job Boss menu
+# core-scripts
+Its free scripts, dont sell it
